@@ -14,7 +14,7 @@ I'm a second-year student in the Health Data Science program at UCSF. I took Dat
 # Assignment 2 Information 
 
 **Screenshot of installing package Keras in my virtual environment:**
-![My screenshot](/Users/MuskaanSandhu/ds-217-02-git-muskaansandhu/images/Screenshot 2024-09-19 at 12.25.55 PM.png)
+![My screenshot](images/Screenshot 2024-09-19 at 12.25.55 PM.png)
 
 **Meme**
-![Meme](/Users/MuskaanSandhu/ds-217-02-git-muskaansandhu/images/pic.jpeg)
+![Meme](images/pic.jpeg)
