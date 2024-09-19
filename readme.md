@@ -11,3 +11,10 @@ I'm a second-year student in the Health Data Science program at UCSF. I took Dat
 
 # [Link to official Python website](https://www.python.org)
 
+# Assignment 2 Information 
+
+**Screenshot of installing package Keras in my virtual environment:**
+![My screenshot](/Users/MuskaanSandhu/Desktop/Screenshot 2024-09-19 at 12.25.55 PM.png)
+
+**Meme**
+![Meme](/Users/MuskaanSandhu/Downloads/pic.jpeg)
